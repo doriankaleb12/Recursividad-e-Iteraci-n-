@@ -1,0 +1,14 @@
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\bin\Debug\net7.0\RECC#.exe
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\bin\Debug\net7.0\RECC#.deps.json
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\bin\Debug\net7.0\RECC#.runtimeconfig.json
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\bin\Debug\net7.0\RECC#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\bin\Debug\net7.0\RECC#.pdb
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\obj\Debug\net7.0\RECC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\obj\Debug\net7.0\RECC#.AssemblyInfoInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\obj\Debug\net7.0\RECC#.AssemblyInfo.cs
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\obj\Debug\net7.0\RECC#.csproj.CoreCompileInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\obj\Debug\net7.0\RECC#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\obj\Debug\net7.0\refint\RECC#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\obj\Debug\net7.0\RECC#.pdb
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\obj\Debug\net7.0\RECC#.genruntimeconfig.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\RECC#\obj\Debug\net7.0\ref\RECC#.dll
